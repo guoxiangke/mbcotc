@@ -1,6 +1,12 @@
 # 慕安德烈每日靈修
 
 <style>
+    html[data-theme=dark] .calendar a{
+        color: black;
+    }
+    html[data-theme=dark] .vp-back-to-top-button{
+        color: white;
+    }
     .theme-default-content a:not(.header-anchor){
         text-decoration:none;
     }
