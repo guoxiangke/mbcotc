@@ -4,7 +4,6 @@ import { viteBundler } from '@vuepress/bundler-vite'
 
 export default defineUserConfig({
   lang: 'en-US',
-  base: 'mbcotc',
   title: '天普市國語浸信會靈修小站',
   description: '慕安德烈每日靈修',
 
