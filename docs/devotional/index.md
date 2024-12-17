@@ -1,6 +1,9 @@
 # 慕安德烈每日靈修
 
 <style>
+    .theme-default-content a:not(.header-anchor){
+        text-decoration:none;
+    }
         .container {
             max-width: 900px;
             margin: 20px auto;
