@@ -20,7 +20,7 @@ function generateCalendar($months) {
         for ($day = 1; $day <= $daysInMonth; $day++) {
             $formattedDay = sprintf('%02d', $day); // 格式化成两位数，如 01, 02
             $link = "/devotional/CN/{$monthNumber}{$formattedDay}.html";
-            echo "<div><a href='{$link}'>{$monthName}{$day}日</a></div>";
+            echo "<div><a href='{$link}'>{$day}日</a></div>";
         }
 
         echo '</div>'; // 结束 .calendar
