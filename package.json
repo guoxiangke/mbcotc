@@ -1,7 +1,7 @@
 {
   "name": "vuepress-mbcotc",
   "version": "0.0.1",
-  "description": "天普市國語浸信會靈修小站",
+  "description": "靈修小站",
   "license": "MIT",
   "type": "module",
   "scripts": {
